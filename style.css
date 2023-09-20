@@ -21,8 +21,9 @@ ul{
 
 li{
     display: inline-block;
-    margin-left: 135px;
     margin-top: 50px;
+    margin-left: 135px;
+    margin-bottom: 30px;
     font-size: 30px;
     color: rgb(4, 63, 190);
 
